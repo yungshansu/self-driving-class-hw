@@ -1,0 +1,8 @@
+prefix=/home/michael/self-driving-class-hw/catkin_ws/install
+
+Name: student_0660027_hw3
+Description: Description of student_0660027_hw3
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/michael/self-driving-class-hw/catkin_ws/install/lib 
+Requires: 

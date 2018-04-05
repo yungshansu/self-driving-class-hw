@@ -1,0 +1,8 @@
+prefix=/home/michael/self-driving-class-hw/catkin_ws/devel
+
+Name: hw4_0660027
+Description: Description of hw4_0660027
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/michael/self-driving-class-hw/catkin_ws/devel/lib 
+Requires: 
