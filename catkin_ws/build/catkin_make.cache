@@ -1,2 +1,0 @@
-hw4_0660027:student_0660027_hw3
--DCATKIN_DEVEL_PREFIX=/home/michael/self-driving-class-hw/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/michael/self-driving-class-hw/catkin_ws/install -G Unix Makefiles
